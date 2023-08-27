@@ -16,7 +16,7 @@
 - Data Science Process
 - Importance of Domain Knowledge
 
-[Go To Top](#data-science-cheet-sheet)
+[Go To Top](#table-of-contents)
 
 ## Data Collection
 - Types of Data (Structured, Unstructured, Semi-Structured)
